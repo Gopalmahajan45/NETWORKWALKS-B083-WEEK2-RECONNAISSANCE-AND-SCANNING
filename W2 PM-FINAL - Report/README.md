@@ -863,8 +863,7 @@ An authorization letter is included with this final report to document the permi
 
 ### Authorization Document
 
-[📄 View Letter of Authorization](Letter%20of%20Authorization.pdf)
-
+[📄 View Permission Letter](W2-PM-Sample%20Permission%20Letter%20v1.pdf)
 The authorization document should be reviewed to ensure that all tested domains, systems, and networks are within the approved scope.
 
 ---
