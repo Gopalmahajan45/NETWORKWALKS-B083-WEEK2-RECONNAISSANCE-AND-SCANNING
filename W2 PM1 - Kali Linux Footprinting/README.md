@@ -162,7 +162,7 @@ From a security perspective, this information can be useful during the initial r
 
 **SS 01 — WHOIS Domain Information**
 
-![SS 01 - WHOIS Domain Information](screenshots/01-whois.png)
+![Evidence 1 - WHOIS](01-whois.png)
 
 ---
 
@@ -207,7 +207,7 @@ Knowing the CMS, plugins, and server technologies can help a security tester dec
 
 **SS 02 — WhatWeb Web Technology Fingerprinting**
 
-![SS 02 - WhatWeb Output](screenshots/02-whatweb.png)
+![Evidence 2 - WhatWeb](02-whatweb.png)
 
 ---
 
@@ -247,7 +247,7 @@ Finding the IP address gives a tester more information about the infrastructure 
 
 **SS 03 — DNS Resolution**
 
-![SS 03 - nslookup Output](screenshots/03-nslookup.png)
+![Evidence 3 - nslookup](03-nslookup.png)
 
 ---
 
@@ -285,7 +285,7 @@ During a penetration test, this information can help in understanding the techno
 
 **SS 04 — HTTP Response Headers**
 
-![SS 04 - Curl HTTP Headers](screenshots/04-curl.png)
+![Evidence 4 - cURL](04-curl.png)
 
 ---
 
@@ -329,7 +329,7 @@ Knowing that a WAF is present gives a tester an idea about the defensive control
 
 **SS 05 — WAF Detection**
 
-![SS 05 - Wafw00f Output](screenshots/05-wafw00f.png)
+![Evidence 5 - Wafw00f](05-wafw00f.png)
 
 ---
 
@@ -376,8 +376,7 @@ MX, TXT, and SRV records can provide information about mail services and other s
 
 **SS 06 — DNSRecon Enumeration**
 
-![SS 06 - DNSRecon Output](screenshots/06-dnsrecon.png)
-
+![Evidence 6 - DNSRecon](06-dnsrecon.png)
 ---
 
 # 📊 Findings Summary
@@ -582,42 +581,41 @@ All screenshots for this module are stored inside the `screenshots/` directory.
 
 ## Evidence 1 — WHOIS Domain Information
 
-![Evidence 1 - WHOIS](![WHOIS](01-whois.png))
+![Evidence 1 - WHOIS](01-whois.png)
 
 ---
 
 ## Evidence 2 — WhatWeb Web Technology Fingerprinting
 
-![Evidence 2 - WhatWeb](![WhatWeb](02-whatweb.png)
+![Evidence 2 - WhatWeb](02-whatweb.png)
 )
 
 ---
 
 ## Evidence 3 — nslookup DNS Resolution
 
-![Evidence 3 - nslookup](![Nslookup](03-nslookup.png)
+![Evidence 3 - nslookup](03-nslookup.png)
 )
 
 ---
 
 ## Evidence 4 — curl HTTP Header Analysis
 
-![Evidence 4 - curl](![cURL](04-curl.png)
+![Evidence 4 - cURL](04-curl.png)
 )
 
 ---
 
 ## Evidence 5 — Wafw00f WAF Detection
 
-![Evidence 5 - Wafw00f](![WAFW00F](05-wafw00f.png)
+![Evidence 5 - Wafw00f](05-wafw00f.png)
 )
 
 ---
 
 ## Evidence 6 — DNSRecon DNS Enumeration
 
-![Evidence 6 - DNSRecon](![DNSRecon](06-dnsrecon.png))
-
+![Evidence 6 - DNSRecon](06-dnsrecon.png)
 ---
 
 # 📁 Repository Structure
