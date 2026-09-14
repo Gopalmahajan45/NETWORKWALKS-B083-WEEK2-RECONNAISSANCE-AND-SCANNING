@@ -416,7 +416,7 @@ Understanding the available options helps perform OSINT reconnaissance in an org
 
 ### Screenshot Evidence
 
-![theHarvester Help](../W2%20PM4%20-%20theHarvester%20OSINT/01-theharvester-help.png)
+![theHarvester Help](../W2/PM4%20-%20OSINT%20Aggregation%20via%20theHarvester/01-theharvester-help.png)
 
 ---
 
@@ -473,7 +473,7 @@ These findings are reconnaissance observations and not confirmed vulnerabilities
 
 ### Screenshot Evidence
 
-![theHarvester Baidu Results](../W2%20PM4%20-%20theHarvester%20OSINT/02-theharvester-baidu-results.png)
+![theHarvester Baidu Results](../W2/PM4%20-%20OSINT%20Aggregation%20via%20theHarvester/02-theharvester-baidu-results.png)
 
 ---
 
@@ -513,8 +513,7 @@ However, missing API keys can limit the amount of information that can be collec
 
 ### Screenshot Evidence
 
-![theHarvester API Sources](../W2%20PM4%20-%20theHarvester%20OSINT/03-theharvester-api-sources.png)
-
+![theHarvester API Sources](../W2/PM4%20-%20OSINT%20Aggregation%20via%20theHarvester/03-theharvester-api-sources.png)
 ---
 
 # 📊 PM4 Findings Summary
