@@ -582,37 +582,41 @@ All screenshots for this module are stored inside the `screenshots/` directory.
 
 ## Evidence 1 — WHOIS Domain Information
 
-![Evidence 1 - WHOIS](screenshots/01-whois.png)
+![Evidence 1 - WHOIS](![WHOIS](01-whois.png))
 
 ---
 
 ## Evidence 2 — WhatWeb Web Technology Fingerprinting
 
-![Evidence 2 - WhatWeb](screenshots/02-whatweb.png)
+![Evidence 2 - WhatWeb](![WhatWeb](02-whatweb.png)
+)
 
 ---
 
 ## Evidence 3 — nslookup DNS Resolution
 
-![Evidence 3 - nslookup](screenshots/03-nslookup.png)
+![Evidence 3 - nslookup](![Nslookup](03-nslookup.png)
+)
 
 ---
 
 ## Evidence 4 — curl HTTP Header Analysis
 
-![Evidence 4 - curl](screenshots/04-curl.png)
+![Evidence 4 - curl](![cURL](04-curl.png)
+)
 
 ---
 
 ## Evidence 5 — Wafw00f WAF Detection
 
-![Evidence 5 - Wafw00f](screenshots/05-wafw00f.png)
+![Evidence 5 - Wafw00f](![WAFW00F](05-wafw00f.png)
+)
 
 ---
 
 ## Evidence 6 — DNSRecon DNS Enumeration
 
-![Evidence 6 - DNSRecon](screenshots/06-dnsrecon.png)
+![Evidence 6 - DNSRecon](![DNSRecon](06-dnsrecon.png))
 
 ---
 
